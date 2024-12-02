@@ -20,7 +20,7 @@ st.markdown(
 )
 
 # Add a panda image at the top of the page
-st.image("/Users/muhammadqummerularfeen/Downloads/PandaAi.jpg", width=200)
+st.image("https://github.com/neefra/PandasAI_vs_Pandas/blob/main/PandaAi.jpg", width=200)
 
 # Streamlit app title
 st.title("Data Analysis & Visualization with PandasAI")

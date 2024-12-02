@@ -3,3 +3,4 @@ pandasai
 seaborn
 numpy
 streamlit
+pyyaml

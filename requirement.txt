@@ -1,3 +1,4 @@
 plotly
 pandasai
 seaborn
+numpy
